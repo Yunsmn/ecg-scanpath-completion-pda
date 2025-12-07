@@ -106,15 +106,6 @@ When running `simple_completion_demo.py`, you'll see:
 3. Missing task identification
 4. Completion suggestions based on clinical protocols
 
-## Understanding the Output
-
-- ✅ = Complete/Valid
-- ⚠️ = Incomplete/Warning
-- ❌ = Invalid/Failed
-- 📋 = Scanpath/Input
-- 💡 = Suggestion
-- ✨ = Result/Output
-
 ## Troubleshooting
 
 If you get import errors:
