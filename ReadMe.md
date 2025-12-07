@@ -42,5 +42,9 @@ This project:
 
 ---
 
-## 📁 Repository Structure
+## Formal Grammar (Excerpt)
+
+We define ECG scanpaths as a **context-free language** over AOIs such as  
+`{II, V1, V2, V3, V4, V5, V6, P, QRS, ST, T, QT}`.
+
 
